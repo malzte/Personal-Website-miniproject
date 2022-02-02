@@ -1,0 +1,38 @@
+body{
+    background-color: oldlace;
+}
+p{
+    color: blue;
+    font-style: italic;
+    font-family: arial;
+    border-style: solid;
+    background-color:lightgrey;
+    font-size:35px;
+}
+h1{
+    color: grey;
+    background-color:#F4F6C6;
+    text-align: center;
+    font-size: 150px; 
+    font-family: 'Bebas Neue', cursive;
+
+}
+img{
+    border: 10px solid grey;
+    width: 100%;
+    max-width: 500px;
+    min-width: 100px;
+}
+
+#id1{
+    color:rgb(0, 104, 0);
+    font-family: sans-serif;
+    font-style: italic;
+    border-style: dashed;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
